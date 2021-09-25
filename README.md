@@ -1,6 +1,6 @@
 # Stony Brook University Hacks: ISS-Tracker
 
-## The team: Dario Arias, D"Aundre Doris, and Ifte Ahmed
+## The team: Dario Arias, D'Aundre Doris, and Ifte Ahmed
 
 ## Inspiration
 Inspired by SpaceX’s Inspiration4 project, our team wanted to track the International Space Station to make it easier for stargazers and space enthusiasts.
