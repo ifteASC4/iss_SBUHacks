@@ -24,10 +24,15 @@
     {% block costumed_styles %}{% endblock %}
 
     <title>{% block title %}{% endblock %}</title>
+    <style>
+      .navbar{
+        background-color: blue;
+      }
+    </style>
   </head>
 
   <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light mb-3" id="mynav">
       <button
         class="navbar-toggler"
         type="button"
