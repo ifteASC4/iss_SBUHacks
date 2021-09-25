@@ -29,3 +29,6 @@ We learned Flask and Jinja for this web application.
 1. The next steps for our project would be to make our map more interactive and allow the user to view more info about the ISS, such as its current speed and trajectory, etc. 
 2. We were struggling to implement the prediction feature which would allow the user to enter an address and it would predict the next time the ISS would be pass by their location.
 3. We want to implement a news page on our website, which would allow the user to view info about the station, its passengers, and general space-related news/updates. 
+
+##Check out a mini Demo of our APP below!!!
+https://www.loom.com/share/d026b34dbb3842dab77754c131cc98ec
