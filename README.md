@@ -34,7 +34,7 @@ We learned Flask and Jinja for this web application.
 https://www.loom.com/share/d026b34dbb3842dab77754c131cc98ec
 
 ### Links to resources:
-ISS API: http://open-notify.org/Open-Notify-API/ISS-Location-Now/
-amCharts4: https://www.amcharts.com/docs/v4/
+- ISS API: http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+- amCharts4: https://www.amcharts.com/docs/v4/
 
-Our Devpost: https://devpost.com/software/iss_tracker
+- Our Devpost: https://devpost.com/software/iss_tracker
