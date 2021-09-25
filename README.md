@@ -30,5 +30,11 @@ We learned Flask and Jinja for this web application.
 2. We were struggling to implement the prediction feature which would allow the user to enter an address and it would predict the next time the ISS would be pass by their location.
 3. We want to implement a news page on our website, which would allow the user to view info about the station, its passengers, and general space-related news/updates. 
 
-##Check out a mini Demo of our APP below!!!
+## Check out a mini Demo of our APP below!!!
 https://www.loom.com/share/d026b34dbb3842dab77754c131cc98ec
+
+### Links to resources:
+ISS API: http://open-notify.org/Open-Notify-API/ISS-Location-Now/
+amCharts4: https://www.amcharts.com/docs/v4/
+
+Our Devpost: https://devpost.com/software/iss_tracker
